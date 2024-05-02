@@ -1,0 +1,5 @@
+com\pages\Homepage.class
+com\pages\Elements.class
+com\stepdefinitions\ElementSteps.class
+com\stepdefinitions\Base.class
+com\stepdefinitions\HomePageSteps.class
